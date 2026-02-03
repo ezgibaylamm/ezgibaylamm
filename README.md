@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  ✨ ⭐ ✨ ⭐ ✨
+</p>
 
-<!--
-**ezgibaylamm/ezgibaylamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">hello, i'm ezgi 🌙</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  game & mobile focused developer<br>
+  building things softly, one feature at a time ✨
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⭐ 🌙 ⭐ 🌙 ⭐
+</p>
+
+---
+
+### 🎮 currently focused on
+- mobile app development (**swift**)
+- game-oriented logic & mechanics
+- improving clean code & structure
+
+---
+
+### ✨ what i like working on
+- mobile UI & interactions
+- game systems & effects
+- backend basics for apps
+- learning by building small projects 🌱
+
+---
+
+### 🌌 tech stack
+`swift` · `java` · `sql` · `node.js` · `git`
+
+---
+
+### 🌙 goals
+- get better at game & mobile architecture
+- ship more small but complete projects
+- keep things minimal & aesthetic ✨
+
+---
+
+<p align="center">
+  ✨ ⭐ ✨ ⭐ ✨
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=9b8cff&style=flat" />
+</p>
+
