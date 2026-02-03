@@ -46,7 +46,5 @@
   ✨ ⭐ ✨ ⭐ ✨
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=9b8cff&style=flat" />
-</p>
+
 
