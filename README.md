@@ -31,7 +31,7 @@
 ---
 
 ### 🌌 tech stack
-`swift` · `java` · `sql` · `node.js` · `git`
+`swift` · `java` · `sql` · `node.js` · `git` · `xcode` · `swiftui` · `vscode`
 
 ---
 
